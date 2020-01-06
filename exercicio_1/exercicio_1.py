@@ -1,5 +1,6 @@
-#Aluno: Jose Victor Medeiros Thome da Silva
-#Exerc�cio 1 do laboratorio 18/03/2017
+# -*- coding: utf-8 -*-
+#Aluno: José Victor Medeiros Thome da Silva
+#Exercício 1 do laboratorio 18/03/2017
 
 n = int(input())
 

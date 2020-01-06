@@ -36,7 +36,7 @@ def ehSubgrupo(n, subcj): #Teste de subgrupo em 'u(n)'
 n = input()
 subgr = []
 for i in range(n):
-    a, subcj = input()
+    a, subcj = input() # a sendo um inteiro e subcj sendo uma lista de inteiros
     if(ehSubgrupo(a, subcj)):
        print 'SIM'
     else:

@@ -25,5 +25,3 @@ for i in range(0, n):
     a,b = input()
     euclidianoEstendido(a, b)
     print '---'
-        
-        

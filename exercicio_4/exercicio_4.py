@@ -1,5 +1,5 @@
 #Aluno: Jose Victor Medeiros Thome da Silva.
-#Exercicio 3 - Crivo de Erastotenes
+#Exercicio 4 - Crivo de Erastotenes
 
 from math import sqrt
 

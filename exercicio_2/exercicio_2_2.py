@@ -10,9 +10,8 @@ def euclidiano(a, b):
         print('%d') %(r) #Inprime o resto obtido em cada loop.
         a = b
         b = r
-    
 
-
+   
 n = int(input())
 
 for i in range(0, n):
