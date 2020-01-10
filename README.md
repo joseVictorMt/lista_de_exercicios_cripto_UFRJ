@@ -1,6 +1,6 @@
 # Exercícios de laboratório de criptografia
 
-Códigos dos exercícios das listas de laboratório da disciplina Números Inteiros e Criptografia do período 2017.1, pertencente ao curso Bacharelado em Ciência da Computação da UFRJ.
+Códigos dos exercícios das listas de laboratório da disciplina Números Inteiros e Criptografia do período 2017.1, pertencente ao curso de Ciência da Computação da UFRJ.
 
 ## Proposta de cada exercício
 
